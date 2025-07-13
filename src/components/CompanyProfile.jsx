@@ -26,7 +26,7 @@ const CompanyProfile = () => {
         </svg>
       ),
       label: "HP/WA",
-      value: "087736218710"
+      value: "+62 858 8184 0618"
     }
   ];
 

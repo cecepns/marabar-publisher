@@ -78,7 +78,7 @@ const Services = () => {
                 </ul>
 
                 <a
-                  href="https://wa.me/6287736218710?text=Halo, saya tertarik dengan layanan jasa yang ditawarkan. Mohon informasi lebih lanjut."
+                  href="https://wa.me/6285881840618?text=Halo, saya tertarik dengan layanan jasa yang ditawarkan. Mohon informasi lebih lanjut."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full bg-primary-500 hover:bg-primary-600 text-white py-3 px-4 rounded-lg font-semibold transition-all duration-300 transform group-hover:scale-105 inline-block text-center"
@@ -98,7 +98,7 @@ const Services = () => {
               Tim ahli kami siap membantu Anda dengan kebutuhan publikasi yang spesifik
             </p>
             <a
-              href="https://wa.me/6287736218710?text=Halo, saya ingin berkonsultasi tentang layanan publikasi ilmiah. Mohon informasi lebih lanjut."
+              href="https://wa.me/6285881840618?text=Halo, saya ingin berkonsultasi tentang layanan publikasi ilmiah. Mohon informasi lebih lanjut."
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white text-primary-600 hover:bg-gray-100 px-8 py-3 rounded-lg font-semibold transition-colors duration-300 inline-block"
