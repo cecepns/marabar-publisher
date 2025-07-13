@@ -4,7 +4,7 @@ const Journals = () => {
       title: "Jurnal Kesehatan Farmasi Nusantara",
       description:
         "Jurnal Kesehatan Farmasi Nusantara is a national peer-reviewed journal published by the Mara Cendekia Publisher. The journal aims to disseminate research findings and mini-reviews in the field of pharmacy, encompassing various areas such as clinical pharmacy, community pharmacy, pharmaceutical chemistry, formulation, and related fields.",
-      category: "Kesehatan & Farmasi",
+      category: "Kefarmasian",
       color: "from-blue-500 to-blue-600",
       image:
         "https://journal.marapublisher.com/public/journals/1/journalThumbnail_en_US.jpg",
